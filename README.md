@@ -6,3 +6,4 @@
 3. [Google Java编程风格指南](http://hawstein.com/posts/google-java-style.html)
 4. [码农场](http://www.hankcs.com/)
 5. [ShittyCode](http://myshittycode.com/)
+6. [并发编程网 - ifeve.com](http://ifeve.com/)
