@@ -7,3 +7,4 @@
 4. [码农场](http://www.hankcs.com/)
 5. [ShittyCode](http://myshittycode.com/)
 6. [并发编程网 - ifeve.com](http://ifeve.com/)
+7. [酷壳](http://coolshell.cn/)
