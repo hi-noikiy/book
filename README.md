@@ -8,3 +8,4 @@
 5. [ShittyCode](http://myshittycode.com/)
 6. [并发编程网 - ifeve.com](http://ifeve.com/)
 7. [酷壳](http://coolshell.cn/)
+8. [程序员必读书单](http://lucida.me/blog/developer-reading-list/)
